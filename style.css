@@ -71,6 +71,8 @@ body{
 .container button:hover {
     background-color: #fd2d37;
     transition: 0.3s linear;
+    box-shadow: 0 3px 15px #00ff80;
+    border: 1px solid #11ce70;
 }
 
 .container button.hidden{
