@@ -68,6 +68,11 @@ body{
     cursor: pointer;
 }
 
+.container button:hover {
+    background-color: #fd2d37;
+    transition: 0.3s linear;
+}
+
 .container button.hidden{
     background-color: transparent;
     border-color: #fff;
