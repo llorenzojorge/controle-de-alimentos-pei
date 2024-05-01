@@ -246,9 +246,9 @@ div li {
     }
 }
 
-@media screen and (max-width: 599px) {
+@media screen and (min-width: 428px) and (max-width: 599px) {
     #container {
-        width: 80%;
+        width: 90%;
     }
  
 }
