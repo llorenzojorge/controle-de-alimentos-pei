@@ -224,7 +224,15 @@ body{
     transform: translateX(200%);
 }
 
+
 /*Modificação pessoal*/
+
+input.obs {
+    padding-bottom: 80px;
+    overflow-wrap: break-word; /* define que as palavras podem quebrar */
+    word-break: break-all;
+}
+
 div ul {
     margin-top: 5px;
 
